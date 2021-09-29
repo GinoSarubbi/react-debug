@@ -1,5 +1,23 @@
-
-.Arriba{
-    color: white;
-    text-align: center;
+footer{
+    display: flex;
+    justify-content: space-between;
 }
+
+
+
+
+p{
+    color: white;
+    font-size: 13px;
+    margin: 20px;
+    
+}
+
+.FooterIMG{
+    margin: 10px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+
